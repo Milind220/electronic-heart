@@ -1,5 +1,6 @@
 # Electronic Heart
 
+
 I made this brass heart with colourful LEDs inside as a gift for my girlfriend. When switched on, it's LEDs light up in a series of 4 different patterns. The first is a shifting purple light that runs down both sides of the heart. There's also two multicoloured, rainbow style patterns, and one which is supposed to resemble the beating of a heart.
 
 You can see videos/photos of the project [here](https://drive.google.com/drive/folders/1zQZjbOZPv8SrULSwWYCTZUva66K80eWO?usp=sharing)
@@ -14,7 +15,7 @@ The heart is powered by a 750 mAh LiPo cell (which in hindsight was definitely o
 
 ## Credit:
 
-Design Credit: Jiri Praus
+Design Credit: Jiri Praus's [Beating LED Heart](https://www.youtube.com/watch?v=PCjM7lu5XMA)
 
 The code for the heart was simple enough for me to handle with my then limited programming skills, so I wrote it myself.
 
